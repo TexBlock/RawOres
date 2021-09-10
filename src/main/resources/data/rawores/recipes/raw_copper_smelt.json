@@ -1,0 +1,12 @@
+{
+  "group": "rawores",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "rawores:raw_copper"
+  },
+  "result": {
+    "item": "mekanism:copper_ingot"
+  }
+}

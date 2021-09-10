@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="rawores"
+version="1.0.0"
+displayName="RawOres"
+credits="Created using mod maker MCreator"
+displayURL="https://mcreator.net"
+authors="TexTrue, MCreator"
+description='''
+More RawOres !!!
+'''
+
+[[dependencies.rawores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rawores]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

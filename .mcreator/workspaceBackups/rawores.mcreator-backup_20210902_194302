@@ -1,0 +1,138 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RawIron",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_iron"
+    },
+    {
+      "name": "RawGold",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_gold"
+    },
+    {
+      "name": "RawCopper",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_copper"
+    },
+    {
+      "name": "RawIronSmelt",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_iron_smelt"
+    },
+    {
+      "name": "RawIronBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_iron_block"
+    },
+    {
+      "name": "RawGoldBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_gold_block"
+    },
+    {
+      "name": "RawCopperBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_copper_block"
+    },
+    {
+      "name": "RawGoldSmelt",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_gold_smelt"
+    },
+    {
+      "name": "IronOre",
+      "type": "loottable",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "iron_ore"
+    },
+    {
+      "name": "GoldOre",
+      "type": "loottable",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "gold_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rawores.raw_iron": "Raw Iron",
+      "block.rawores.raw_iron_block": "Block of Raw Iron",
+      "block.rawores.raw_gold_block": "Block of Raw Gold",
+      "block.rawores.raw_copper_block": "Block of Raw Copper",
+      "item.rawores.raw_gold": "Raw Gold",
+      "item.rawores.raw_copper": "Raw Copper"
+    },
+    "zh_cn": {
+      "item.rawores.raw_iron": "´ÖÌú",
+      "block.rawores.raw_iron_block": "´ÖÌú¿é",
+      "block.rawores.raw_gold_block": "´Ö½ð¿é",
+      "block.rawores.raw_copper_block": "´ÖÍ­¿é",
+      "item.rawores.raw_gold": "´Ö½ð",
+      "item.rawores.raw_copper": "´ÖÍ­"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rawores",
+    "modName": "RawOres",
+    "version": "1.0.0",
+    "description": "More RawOres !!!",
+    "author": "TexTrue, MCreator",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.rawores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}

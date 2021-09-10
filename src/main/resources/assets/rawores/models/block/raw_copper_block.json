@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rawores:blocks/raw_copper_block",
+    "up": "rawores:blocks/raw_copper_block",
+    "north": "rawores:blocks/raw_copper_block",
+    "east": "rawores:blocks/raw_copper_block",
+    "south": "rawores:blocks/raw_copper_block",
+    "west": "rawores:blocks/raw_copper_block",
+    "particle": "rawores:blocks/raw_copper_block"
+  }
+}
