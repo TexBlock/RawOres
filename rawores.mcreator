@@ -152,10 +152,9 @@
   "workspaceSettings": {
     "modid": "rawores",
     "modName": "RawOres",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "More RawOres !!!",
     "author": "TexTrue, MCreator",
-    "websiteURL": "https://mcreator.net",
     "license": "MIT License",
     "disableForgeVersionCheck": false,
     "serverSideOnly": false,
