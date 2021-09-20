@@ -1,0 +1,10 @@
+{
+	"type":"smelting",
+	"group":"rawores",
+	"ingredient":{
+		"item":"rawores:raw_tin"
+	},
+	"result":"mekanism:ingot_tin",
+	"experience":0.35,
+	"cookingtime":200
+}

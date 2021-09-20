@@ -1,0 +1,10 @@
+{
+	"type":"smelting",
+	"group":"rawores",
+	"ingredient":{
+		"item":"rawores:raw_lead"
+	},
+	"result":"mekanism:ingot_lead",
+	"experience":0.35,
+	"cookingtime":200
+}

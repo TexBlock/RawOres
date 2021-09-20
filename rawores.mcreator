@@ -134,15 +134,15 @@
       "item.rawores.raw_lead": "Raw Lead"
     },
     "zh_cn": {
-      "item.rawores.raw_osmium": "Raw Osmium",
+      "item.rawores.raw_osmium": "´Öï°",
       "item.rawores.raw_iron": "´ÖÌú",
       "block.rawores.raw_iron_block": "´ÖÌú¿é",
-      "item.rawores.raw_tin": "Raw Tin",
+      "item.rawores.raw_tin": "´ÖÎı",
       "block.rawores.raw_gold_block": "´Ö½ğ¿é",
       "block.rawores.raw_copper_block": "´ÖÍ­¿é",
       "item.rawores.raw_gold": "´Ö½ğ",
       "item.rawores.raw_copper": "´ÖÍ­",
-      "item.rawores.raw_lead": "Raw Lead"
+      "item.rawores.raw_lead": "´ÖÇ¦"
     }
   },
   "foldersRoot": {

@@ -90,26 +90,59 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "gold_ore"
+    },
+    {
+      "name": "RawOsmium",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_osmium"
+    },
+    {
+      "name": "RawTin",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_tin"
+    },
+    {
+      "name": "RawLead",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_lead"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.rawores.raw_osmium": "Raw Osmium",
       "item.rawores.raw_iron": "Raw Iron",
       "block.rawores.raw_iron_block": "Block of Raw Iron",
+      "item.rawores.raw_tin": "Raw Tin",
       "block.rawores.raw_gold_block": "Block of Raw Gold",
       "block.rawores.raw_copper_block": "Block of Raw Copper",
       "item.rawores.raw_gold": "Raw Gold",
-      "item.rawores.raw_copper": "Raw Copper"
+      "item.rawores.raw_copper": "Raw Copper",
+      "item.rawores.raw_lead": "Raw Lead"
     },
     "zh_cn": {
+      "item.rawores.raw_osmium": "Raw Osmium",
       "item.rawores.raw_iron": "´ÖÌú",
       "block.rawores.raw_iron_block": "´ÖÌú¿é",
+      "item.rawores.raw_tin": "Raw Tin",
       "block.rawores.raw_gold_block": "´Ö½ð¿é",
       "block.rawores.raw_copper_block": "´ÖÍ­¿é",
       "item.rawores.raw_gold": "´Ö½ð",
-      "item.rawores.raw_copper": "´ÖÍ­"
+      "item.rawores.raw_copper": "´ÖÍ­",
+      "item.rawores.raw_lead": "Raw Lead"
     }
   },
   "foldersRoot": {
@@ -119,11 +152,11 @@
   "workspaceSettings": {
     "modid": "rawores",
     "modName": "RawOres",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "More RawOres !!!",
     "author": "TexTrue, MCreator",
     "license": "MIT License",
-    "disableForgeVersionCheck": true,
+    "disableForgeVersionCheck": false,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],

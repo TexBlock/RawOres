@@ -1,0 +1,10 @@
+{
+	"type":"smelting",
+	"group":"rawores",
+	"ingredient":{
+		"item":"rawores:raw_osmium"
+	},
+	"result":"mekanism:ingot_osmium",
+	"experience":0.35,
+	"cookingtime":200
+}

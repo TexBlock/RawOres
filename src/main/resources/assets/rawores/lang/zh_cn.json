@@ -1,11 +1,11 @@
 {
-  "item.rawores.raw_osmium": "Raw Osmium",
+  "item.rawores.raw_osmium": "粗锇",
   "item.rawores.raw_iron": "粗铁",
   "block.rawores.raw_iron_block": "粗铁块",
-  "item.rawores.raw_tin": "Raw Tin",
+  "item.rawores.raw_tin": "粗锡",
   "block.rawores.raw_gold_block": "粗金块",
   "block.rawores.raw_copper_block": "粗铜块",
   "item.rawores.raw_gold": "粗金",
   "item.rawores.raw_copper": "粗铜",
-  "item.rawores.raw_lead": "Raw Lead"
+  "item.rawores.raw_lead": "粗铅"
 }
