@@ -9,3 +9,4 @@
 | Thermal Series |    0%    |
 
 使用MCreator制作
+**注意：本模组的模组支持依靠数据包“RawOresRecipesDataPack”，此数据包使用 [数据包配方助手（Datapack Recipe Maker）](https://www.mcmod.cn/class/2813.html) 生成**
