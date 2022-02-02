@@ -4,7 +4,7 @@
 
 |   支持的模组   | 支持进度 |
 | :------------: | :------: |
-|    Mekanism    |   100%   |
+|    Mekanism    |   0%   |
 |     Create     |    0%    |
 | Thermal Series |    0%    |
 
